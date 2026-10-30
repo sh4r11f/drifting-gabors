@@ -1,0 +1,17 @@
+study,ecc_dva,shift_sigma_one_patch,kind,source,range_lo,range_hi,omitted_note
+De Valois & De Valois 1991,0.0,0.2550637659414854,one,"Fig. 2, 2 c/deg 4 Hz; sigma = 8 arcmin; one-sided",,,
+De Valois & De Valois 1991,1.0,0.6301575393848462,one,,,,
+De Valois & De Valois 1991,2.0,0.6301575393848462,one,,,,
+De Valois & De Valois 1991,8.0,1.8754688672168045,one,,,,
+Chung et al. 2007,1.0,0.1111111111111111,rel,"Fig. 3, 4 c/deg, 453 ms, >=1 deg/s; pair value halved; sigma = 18 arcmin",,,
+Chung et al. 2007,4.0,0.3472222222222222,rel,,,,
+Bressler & Whitney 2006,9.1,0.3503184713375796,rel,"Fig. 7 max, first-order 0.18 c/deg; misalignment halved; FWHM 3.7 deg -> sigma 1.57 deg",,,
+Kosovicheva et al. 2014,10.0,0.8461538461538461,one,"0.55 deg, half PSE difference; sigma = 0.65 deg",,,
+Ye et al. 2018,3.0,0.2958333333333333,rel,"control subject 14.2 arcmin at 3 deg, group ~0.4 deg at 9 deg; relative halved; sigma = 24 arcmin",,,
+Ye et al. 2018,9.0,0.5,rel,,,,
+Hu et al. 2022,4.0,0.5,rel,~0.23 deg at 83 ms plateau; relative halved; sigma = 0.23 deg,,,
+"This study, single-drift",10.8,3.69,ours_sd,"800 ms, matched path length 1.11 dva (SEM 0.10; participants 0.77 to 1.45): displacement accumulated during one 800-ms pass of internal drift in one direction; sigma = 0.3",2.5656072680555555,4.840342540277777,
+"This study, double-drift",10.8,3.89,ours_dd,"800 ms, projected path length 1.17 dva (SEM 0.12; participants 0.89 to 1.65): same convention",2.9708145325554876,5.4891150057265135,
+"Lisi & Cavanagh 2015, double-drift",10.0,22.98133329356934,dd_lit,"3 dva path, ~50 deg deviation -> ~2.3 dva endpoint offset; sigma = 0.1",,,
+Whitney et al. 2003,13.0,,omitted,not plotted: report does not state whether the 2.8 to 4.8 deg value is per patch or the relative offset of the opposed patches,,,omitted
+Jeon et al. 2020,10.0,,omitted,"not plotted: noise-texture patch; only a piecewise fit (peak/asymptote) is reported, not per-duration shifts for a Gabor envelope",,,omitted

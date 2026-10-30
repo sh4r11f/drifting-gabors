@@ -1,0 +1,18 @@
+study,ecc_dva,shift_dva,kind,range_lo,range_hi,source,label,lab_dx,lab_dy,lab_ha
+De Valois & De Valois 1991,0.0,0.034,one,,,"Fig. 2, 2 c/deg 4 Hz; sigma = 8 arcmin; one-sided",,0,0,left
+De Valois & De Valois 1991,1.0,0.084,one,,,,,0,0,left
+De Valois & De Valois 1991,2.0,0.084,one,,,,,0,0,left
+De Valois & De Valois 1991,8.0,0.2501,one,,,,De Valois & De Valois (1991),-8,12,right
+Chung et al. 2007,1.0,0.0333,rel,,,"Fig. 3, 4 c/deg, 453 ms, >=1 deg/s; pair value halved; sigma = 18 arcmin",Chung et al. (2007),9,-6,left
+Chung et al. 2007,4.0,0.1042,rel,,,,Chung et al. (2007),9,-9,left
+Bressler & Whitney 2006,9.1,0.55,rel,,,"Fig. 7 max, first-order 0.18 c/deg; misalignment halved; FWHM 3.7 deg -> sigma 1.57 deg",Bressler & Whitney (2006),-9,4,right
+Kosovicheva et al. 2014,10.0,0.55,one,,,"0.55 deg, half PSE difference; sigma = 0.65 deg",Kosovicheva et al. (2014),4,-16,left
+Ye et al. 2018,3.0,0.1183,rel,,,"control subject 14.2 arcmin at 3 deg, group ~0.4 deg at 9 deg; relative halved; sigma = 24 arcmin",Ye et al. (2018),-6,10,right
+Ye et al. 2018,9.0,0.2,rel,,,,Ye et al. (2018),8,-4,left
+Hu et al. 2022,4.0,0.115,rel,,,~0.23 deg at 83 ms plateau; relative halved; sigma = 0.23 deg,Hu et al. (2022),9,30,left
+Whitney et al. 2003,13.0,1.8375,rel,1.4,2.4,"Fig. 1E, four subjects about 4.1, 3.0, 2.8, 4.8 deg; four patches, opposed motion in the two hemifields, nulled; read as the relative offset of the opposed patches and halved (Sharif, 21 Oct)",Whitney et al. (2003),-10,0,right
+Lisi & Cavanagh 2015 Exp. 2,10.0,1.315,dd_lit,,,"Exp. 2, Fig. 2: PSEs -1.92 and +0.71 dva, half the difference = 1.315 dva (a horizontal offset); 2-dva path segment, 1 s, 45 deg",Lisi & Cavanagh (2015),-10,0,right
+Fu et al. 2004,2.0,0.0151,rel,0.0097,0.0196,"Fig. 3B, mean of four observers (YF HG QT QF) read from the figure: 1.81 3.21 4.59 6.41 arcmin at 2 4 6 8 deg; two patches drifting in opposite directions, nulled; relative value halved; 2 Hz, 2 s, 4 cycles per estimated V1 RF",,0,0,left
+Fu et al. 2004,4.0,0.0267,rel,0.0201,0.0376,"",,0,0,left
+Fu et al. 2004,6.0,0.0382,rel,0.0300,0.0526,"",,0,0,left
+Fu et al. 2004,8.0,0.0534,rel,0.0394,0.0670,"",Fu et al. (2004),0,0,left

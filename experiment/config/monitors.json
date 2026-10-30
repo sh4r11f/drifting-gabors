@@ -1,0 +1,38 @@
+{
+  "Odyssey": {
+      "size_cm": [120, 0],
+      "size_px": [3840, 1080],
+      "dist": 65,
+      "refresh_rate": 60
+  },
+  "iMac": {
+      "size_cm": [54, 0],
+      "size_px": [1280, 720],
+      "dist": 65,
+      "refresh_rate": 120
+  },
+  "lab": {
+      "size_cm": [54, 0],
+      "size_px": [1280, 720],
+      "dist": 65,
+      "refresh_rate": 120
+  },
+  "AM250": {
+      "size_cm": [54.1, 30.7],
+      "size_px": [1920, 1080],
+      "dist": 63,
+      "refresh_rate": 60
+  },
+  "RaZer": {
+      "size_cm": [38, 20],
+      "size_px": [2560, 1440],
+      "dist": 30,
+      "refresh_rate": 60
+  },
+  "VG279QM": {
+      "size_cm": [60, 34],
+      "size_px": [1920, 1080],
+      "dist": 81,
+      "refresh_rate": 240
+  }
+}

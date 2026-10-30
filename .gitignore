@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+output/
+analysis/notebook_output/
+data/raw/
+data/preproc/
+experiment/data/
+experiment/config/*_gamma_grid.npy
+*.edf
+*.asc
+*.log

@@ -1,0 +1,30 @@
+{
+  "author": "Sharif Saleki",
+  "name": "DDD",
+  "title": "Double-drift vs. DeValois",
+  "description": "Measurement of the illusory deviation of single- and double-drifting gabor patches in the periphery",
+  "version": 9,
+  "users": [],
+  "types": [
+    "Psychophysics",
+    "Eyetracking"
+  ],
+  "sessions": 2,
+  "tasks": {
+    "staircase": {
+      "runs": 0,
+      "blocks": 1,
+      "trials": 280
+    },
+    "match": {
+      "runs": 1,
+      "blocks": 4,
+      "trials": 2
+    },
+    "adjustment": {
+      "runs": 1,
+      "blocks": 4,
+      "trials": 3
+    }
+  }
+}

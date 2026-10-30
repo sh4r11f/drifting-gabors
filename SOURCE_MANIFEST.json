@@ -1,0 +1,157 @@
+{
+  "manuscript_version": "v24",
+  "figure4_revision": 4,
+  "prepared": "2026-10-30",
+  "scope": "source only; participant data excluded",
+  "files": [
+    {
+      "path": "analysis/figure1_v11.py",
+      "source": "v16/analysis/figure1_v11.py",
+      "sha256": "2a81dce9efe78d7f595555998089d1846499b189fff21de09ff20bf2a873dc59"
+    },
+    {
+      "path": "analysis/figures_v21.py",
+      "source": "v21/analysis/figures_v21.py",
+      "sha256": "0f2bbaeef4885a08234c1192e6648bbf4cc1409ea38b1f56e7e94bf112411b75"
+    },
+    {
+      "path": "analysis/make_movies_v21_r2.py",
+      "source": "v21/analysis/make_movies_v21_r2.py",
+      "sha256": "eb97620fa5f1cb5ee71927cc87d73a89fcaa85c3ae5744babd861243c65b5e60"
+    },
+    {
+      "path": "analysis/figure4_v24_r4.py",
+      "source": "v24/analysis/figure4_v24_r4.py",
+      "sha256": "bb8a962191fabbc1ddffc2a677a28740ff71528281b611ba1205e6f8b99580af"
+    },
+    {
+      "path": "data/literature/figure4_points_v21.csv",
+      "source": "v21/analysis/figure4_points_v21.csv",
+      "sha256": "aa9ac778fcda689b0caf0e5f127615183defd30ef27ed6ca437baa20ecac317f"
+    },
+    {
+      "path": "data/literature/figure4_points_v24.csv",
+      "source": "v24/analysis/figure4_points_v24.csv",
+      "sha256": "5753e5bde77f07c89d9982a4b75475aeed34b6ec2ab294ff7a7ecf2254fec5c7"
+    },
+    {
+      "path": "data/literature/figure5_points_v16.csv",
+      "source": "v16/analysis/figure5_points_v16.csv",
+      "sha256": "6f6e691440911c80e6d8ce182ed9ad73e738267c1f81959b12c5dddba5322054"
+    },
+    {
+      "path": "data/literature/figure5_tf_points_v16.csv",
+      "source": "v16/analysis/figure5_tf_points_v16.csv",
+      "sha256": "f875cef814d44820ed51571f716bbf9490ddd36771c5751892a60377f3f23cad"
+    },
+    {
+      "path": "experiment/measure_contrast.py",
+      "source": "Submission.zip:Submission/experiment/measure_contrast.py",
+      "sha256": "466cd08da3108ac89c81d6c8770a8d091765a1622bb2ac6a2b28d27b38e186a1",
+      "modified": false
+    },
+    {
+      "path": "experiment/run.py",
+      "source": "Submission.zip:Submission/experiment/run.py",
+      "sha256": "38098e294819a9359cf9a8ecdd840c7aa703c24b77144cce47849bbe80f68ea5",
+      "modified": false
+    },
+    {
+      "path": "experiment/run_practice.py",
+      "source": "Submission.zip:Submission/experiment/run_practice.py",
+      "sha256": "f96a1afbe82dd2073b5f3647fe91c3f33e97f0e14c8dfa2cec586a4b2fb802b1",
+      "modified": false
+    },
+    {
+      "path": "experiment/__init__.py",
+      "source": "Submission.zip:Submission/experiment/__init__.py",
+      "sha256": "ae5fd504a5ee467e56656dfd1c63334cfad53a062710696753018c194d38a0e9",
+      "modified": false
+    },
+    {
+      "path": "experiment/config/parameters.json",
+      "source": "Submission.zip:Submission/experiment/config/parameters.json",
+      "sha256": "81cde427fb0926f053733c86d2a68dc4f820813c471a7d9417a775edc651e347",
+      "modified": false
+    },
+    {
+      "path": "experiment/config/settings.json",
+      "source": "Submission.zip:Submission/experiment/config/settings.json",
+      "sha256": "97000dc9164bb12c64072b81070454936e71613621491b81fdce00cecc1209c6",
+      "modified": true
+    },
+    {
+      "path": "experiment/config/monitors.json",
+      "source": "Submission.zip:Submission/experiment/config/monitors.json",
+      "sha256": "85c6839111a6f2c84a89ef1c778d0e92fa34bf68056d81e1876da7b94db00a92",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/tasks.py",
+      "source": "Submission.zip:Submission/experiment/src/tasks.py",
+      "sha256": "59243c409ae702fbdf1a479b73f3c39eaca0176ea656f572ca873db28fe9848b",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/analysis.py",
+      "source": "Submission.zip:Submission/experiment/src/analysis.py",
+      "sha256": "d0e702fe90f8ec7362cef91efaac5058afb21e86ac84e9fd100d1c8f5ea8b646",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/qbeep.wav",
+      "source": "Submission.zip:Submission/experiment/src/qbeep.wav",
+      "sha256": "22f39efd8647d56def16474698fd9bfb938c32f4e2e77da966ce3b719f05c350",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/EyeLinkCoreGraphicsPsychoPy.py",
+      "source": "Submission.zip:Submission/experiment/src/EyeLinkCoreGraphicsPsychoPy.py",
+      "sha256": "6d4bb3a5d85c8f1207eb3c3c39871218c732fb11bc4063c78b7ff3277c1c0456",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/__init__.py",
+      "source": "Submission.zip:Submission/experiment/src/__init__.py",
+      "sha256": "12627eb1cede870a8ad3454f892763de58cfc76cb55014bd31755664d6503913",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/double_drift.py",
+      "source": "Submission.zip:Submission/experiment/src/double_drift.py",
+      "sha256": "37ba26a98af86c4cb340092d3e240caa485215dd2a0cc03b8b9668d1f4719462",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/type.wav",
+      "source": "Submission.zip:Submission/experiment/src/type.wav",
+      "sha256": "ff4234803e9a2f2b01640d41650690a8965a579a528c0826ff791b7772cc66f0",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/experiments.py",
+      "source": "Submission.zip:Submission/experiment/src/experiments.py",
+      "sha256": "ada72b62cebc9d59c82509c671413167294d5c87ae4294bb3e608b1f75dd4e33",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/utils.py",
+      "source": "Submission.zip:Submission/experiment/src/utils.py",
+      "sha256": "b3709e2edd575b1eb6213835606d3c253bcc8664583a5b7adffb4a8b17cc31b1",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/error.wav",
+      "source": "Submission.zip:Submission/experiment/src/error.wav",
+      "sha256": "44f7fb5a0190b263f6b89e3034c7538d4882252490a04790fdc9b5cd8248af99",
+      "modified": false
+    },
+    {
+      "path": "experiment/src/measurements.py",
+      "source": "Submission.zip:Submission/experiment/src/measurements.py",
+      "sha256": "cdc3d53a9880ad6ab1f61e0a8219da7d3afdc405050000dca3d8f698b41cf050",
+      "modified": false
+    }
+  ],
+  "normalization": "Text files normalized to UTF-8 LF and trailing whitespace removed; settings.users cleared. Scientific code unchanged."
+}

@@ -1,0 +1,17 @@
+{
+      "MONITOR": "RaZer",
+      "GABOR_DISTANCES": [10.8],
+      "GABOR_SIZE": 1.8,
+      "GABOR_CYCLES": 0.8,
+      "INIT_ENV_ORI": 45,
+      "ENV_SPEED": 2.5,
+      "TEX_SPEED": 5,
+      "FIX_SIZE": 0.2,
+      "GAZE_REGION": 1.5,
+      "DRIFT_DURATIONS": [50, 200, 350, 500, 650, 800],
+      "EYE": 1,
+      "RECYCLE_THRESH": 5,
+      "STABILIZATION": 1,
+      "REF_LINE_LEN": 3.5,
+      "BG_COLOR": 0
+}
